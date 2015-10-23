@@ -1,0 +1,23 @@
+name: robcaveney
+favicon: null
+layout_spectrum: 0.2963313185609877
+typography_spectrum: 0.5677751977927983
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3393546505831182
+  lightness: 0.741672629956156
+  saturation: 0.037128766532987356
+  rhythmicContrast: 0.7487786682322621
+purpose: []
